@@ -5,6 +5,8 @@ TODO-lista, Leevi Saajoranta
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://leevisaajoranta.github.io/WEB-kehitys-projekti-1/)
 Linkki projektin videoesittelyyn [Youtube.com](https://youtu.be/4xKuaXbDXQ4)
 Linkki github repositorioon [Github.com] (https://github.com/Leevisaajoranta/WEB-kehitys-projekti-1)
+Linkki netlifyhin [netlify.com] (https://app.netlify.com/projects/strong-swan-e76ded/overview)
+
 
 ## Työn jakautuminen 
 Tein työn yksin joten työn jako meni tasaisesti minulle
