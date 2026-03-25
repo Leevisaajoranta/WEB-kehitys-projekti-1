@@ -28,13 +28,13 @@ Kurssi on tuntunut rennolta josta pidän! Tykkään omaan tahtiin menemisestä j
 - [Teknologiat](#teknologiat)
 - [Asennus](#asennus)
 - [Kiitokset](#kiitokset)
-- [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
 TODO-lista on sovellus, jolla voit kirjata ylös kaikki tehtävät jotka sinun pitäisi tehdä. Sovelluksessa voit kirjoittaa tehtävä ja lisätä sen listaan jossa voit joko poistaa tehtävän tai yliviivata tehtävän tehdyksi.
 
 ## Tunnetut virheet/bugit
 Yritin tehdä local storagea, mutta se ei jostain syystä toiminut.
+(myös Githubissa koitin tehdä lisensointia mutta ei onnistunut)
 
 ## Kuvakaappaukset
 Esimerkki kuva toimivasta sovelluksesta
@@ -60,7 +60,3 @@ JavaScript: tekee toiminnallisuudet, kuten nappien toiminnat.
 ## Kiitokset
 Hyödynsin kurssin materiaalia sekä ChatGPT tekoälyä sovelluksen luomisessa. Tekoäly auttoi virheiden korjaamisessa ja sovelluksen ideoimisessa. Sen avulla löysin virheet ja opin mitä tehdä oikein. 
 
-## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
