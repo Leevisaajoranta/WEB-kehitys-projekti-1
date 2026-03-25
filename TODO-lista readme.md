@@ -36,6 +36,7 @@ TODO-lista on sovellus, jolla voit kirjata ylös kaikki tehtävät jotka sinun p
 Yritin tehdä local storagea, mutta se ei jostain syystä toiminut.
 
 ## Kuvakaappaukset
+Esimerkki kuva toimivasta sovelluksesta
 ![TODO-listan kuva](TODO_listan_kuva.png)
 
 ## Teknologiat
