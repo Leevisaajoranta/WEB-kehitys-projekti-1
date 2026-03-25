@@ -2,8 +2,9 @@
 TODO-lista, Leevi Saajoranta 
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://leevisaajoranta.github.io/WEB-kehitys-projekti-1/)
+Linkki projektin videoesittelyyn [Youtube.com](https://youtu.be/4xKuaXbDXQ4)
+Linkki github repositorioon [Github.com] (https://github.com/Leevisaajoranta/WEB-kehitys-projekti-1)
 
 ## Työn jakautuminen 
 Tein työn yksin joten työn jako meni tasaisesti minulle
@@ -49,8 +50,7 @@ CSS: luo ulkonäön kuten värit, elementtien sijainnit ja koot.
 
 JavaScript: tekee toiminnallisuudet, kuten nappien toiminnat.
 
-## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
+## Asennus 
 - lataa kaikki tiedostot ja avaa index.html selaimessasi  
 - Sivuston keskellä näet tekstikentän johon voit kirjoittaa tehtävän
 - Painamalla Enter näppäintä tai klikkaamalla Lisää painiketta voit lisätä tehtävän listaan
